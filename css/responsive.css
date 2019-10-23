@@ -19,6 +19,10 @@
     .network-area {
         background-size: auto 70%;
     }
+    .home3 .download-area {
+        background: url(images/four-iphones.png) no-repeat scroll left center / auto 70%;
+        display: block;
+    }
 }
 
 /* Tablet Layout: 768px. */

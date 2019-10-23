@@ -1253,7 +1253,7 @@ textarea.form_control {
 }
 
 .home3 .download-area {
-    background: url(images/four-iphones.png) no-repeat scroll left center / 50% 70%;
+    background: url(images/four-iphones.png) no-repeat scroll left center / auto 70%;
     display: block;
 }
 
