@@ -2,9 +2,8 @@
 
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
     .home3 .download-area {
-        /* background: url(images/four-iphones.png) no-repeat scroll left center / auto 70%;
-        display: block; */
-        background-color: black;
+        background: url(images/four-iphones.png) no-repeat scroll left center / auto 70%;
+        display: block;
     }
     
 }
@@ -27,7 +26,7 @@
         border-color: transparent;
     }
     .navbar-toggle .icon-bar {
-        background-color: #6858db;
+        background-color: #e91f1f;
         border-radius: 0;
     }
     .navbar-bttn {
